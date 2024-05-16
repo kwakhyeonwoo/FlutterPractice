@@ -56,7 +56,7 @@ class _RandomFoodMenuState extends State<RandomFoodMenu> {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          if (selectedMenu == '학식') // '학식'일 때만 이미지 표시
+          if (selectedMenu == '학식') 
             Image.asset(
               'assets/Hansik.jpg',
               width: 500,
