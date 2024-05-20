@@ -12,7 +12,7 @@ void main() {
             color: Colors.white,
             fontSize: 80.0,
             fontWeight: FontWeight.w700,
-            fontFamily: 'parisienne',
+            fontFamily: 'continuous',
           ),
           headline2: TextStyle(
             color: Colors.white,
