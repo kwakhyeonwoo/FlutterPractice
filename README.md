@@ -1,2 +1,2 @@
-# FlutterPratice
-Alone flutter pratice
+# FlutterPractice
+Alone flutter practice
